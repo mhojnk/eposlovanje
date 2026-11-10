@@ -12,7 +12,7 @@ Preprosta statična spletna stran brez gradnje ali zunanjih programskih paketov.
 
 - Vnesi dejansko e-pošto in telefonsko številko v `kontakt.html` ter pravilna `mailto:` in `tel:` cilja.
 - Poveži obrazec v `kontakt.html` s storitvijo za pošiljanje; šele nato odstrani obvestilo in omogoči gumb.
-- Dopolni cene in način obračuna v `cenik.html`.
+- Predstavljen okvirni cenik je 30 €/mesec za enega izvajalca, 50 €/mesec za več zaposlenih in začetna postavitev od 120 € enkratno. SMS-količina še ni določena; nova spletna stran se oceni posebej.
 - Po želji dodaj URL spletne trgovine in druge končne kontaktne oziroma pravne podatke.
 - Pisavi DM Sans in Manrope se trenutno nalagata iz Google Fonts. Če želiš popolnoma lokalno delovanje, ju zamenjaj s sistemskima pisavama ali dodaj lokalne datoteke pisav z ustrezno licenco.
 
