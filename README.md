@@ -36,3 +36,12 @@ Ko bo lokalni videz potrjen:
 4. Shrani nastavitve in sproži prvo objavo. Pri naslednjih potiskih v povezano vejo bo Cloudflare Pages pripravil novo objavo.
 
 Pred prvo objavo še enkrat preveri vse označbe za dopolnitev in delovanje kontaktnega obrazca.
+
+
+## SEO in GEO
+
+- Strani imajo unikatne naslove, opise, kanonične URL-je, Open Graph podatke in Schema.org podatke v obliki JSON-LD.
+- `robots.txt` dovoljuje javno indeksiranje, izrecno tudi OAI-SearchBot, ter navaja `sitemap.xml`.
+- `sitemap.xml` vsebuje tri javne strani. Ob spremembi vsebine posodobi `lastmod` na dejanski datum spremembe.
+- Po objavi dodaj domeno v Google Search Console in Bing Webmaster Tools ter oddaj zemljevid strani. Preveri tudi, da Cloudflarejev varnostni pravilnik ne blokira javnih iskalnih robotov.
+- GEO nima enega posebnega meta taga. Jasna, konkretna in dostopna vsebina ter omogočeno pajkanje pomagajo sistemom razumeti stran, ne zagotavljajo pa prikaza ali uvrstitve v iskalnih odgovorih.
